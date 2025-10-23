@@ -19,7 +19,7 @@ const Nav = () => {
     ]
 
   return (
-    <div className='text-center bg-yellow-950 p-6 space-x-20 kanit text-xl'>
+    <div className='text-center bg-yellow-950 p-4 space-x-20 kanit text-l'>
         {navItems.map((item) => (
             <NavLink className="text-white" to={item.to}>{item.item}</NavLink>
         ))}

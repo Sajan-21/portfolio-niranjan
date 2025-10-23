@@ -10,10 +10,10 @@ const Profile = () => {
                 <img className='' src={njnProfilePic} alt="" />
             </div>
             <div className='text-white flex justify-center p-10'>
-                <div className='flex flex-col justify-center text-2xl space-y-3 '>
+                <div className='flex flex-col justify-center text-2xl'>
                     <p>Hi, I'm</p>
                     <p className='text-7xl text-yellow-500'>NIRANJAN S</p>
-                    <p>Head of Digital Marketing | Trainer | Growth Strategist</p>
+                    <p>Digital Marketing | Trainer | Growth Strategist | Perfomance Marketing</p>
                     <p className='text-gray-500 text-sm'>Turning Clicks into Conversions & Students into Marketers</p>
                 </div>
             </div>
